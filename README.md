@@ -18,3 +18,5 @@ just-mini：https://justpodmedia.com/rss/just-mini.xml
 备忘录： http://www.ximalaya.com/album/24773234.xml
 
 忽左忽右：http://www.ximalaya.com/album/12817863.xml
+
+killtv: http://www.ximalaya.com/album/23972017.xml
