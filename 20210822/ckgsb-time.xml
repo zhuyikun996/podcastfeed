@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>长江TIME</title>
+    <itunes:subtitle>CKGSB Time</itunes:subtitle>
+    <link>http://justpodmedia.com/shows/ckgsb-time</link>
+    <atom:link href="https://justpodmedia.com/feed?ep=ckgsb-time" rel="self" type="application/rss+xml"/>
+    <description>「长江TIME」是一档聚焦商业财经管理的播客，每周更新。这里有正在崛起中的商业新生代、驰骋商场的业界领袖、社会热点评说和宏观经济趋势前瞻，当然也有“取势、明道、优术”的长江六字法则，一切都与有料、有趣、有品的商业世界相关。</description>
+    <itunes:summary>「长江TIME」是一档聚焦商业财经管理的播客，每周更新。这里有正在崛起中的商业新生代、驰骋商场的业界领袖、社会热点评说和宏观经济趋势前瞻，当然也有“取势、明道、优术”的长江六字法则，一切都与有料、有趣、有品的商业世界相关。</itunes:summary>
+    <language>zh-CN</language>
+    <copyright>&amp;#169; 2019 JustPod</copyright>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>商业</itunes:keywords>
+    <itunes:author>长江商学院CKGSB</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/>
+    <itunes:owner>
+      <itunes:name>长江TIME</itunes:name>
+      <itunes:email>yang1989yi@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <itunes:season/>
+      <title>即将上线</title>
+      <itunes:title>trailer episode</itunes:title>
+      <description>
+        <![CDATA[<p>嗨大家好，在这档每周更新的播客中，长江商学院被称为金字塔尖的精英校友们会跟大家分享私家学习心得、创业、做公司、甚至征战全球的酸甜苦辣，以及具有前瞻性、实战性的行业分析。你也会了解到传说中的长江真实的样子，当然也少不了发生在学院里的有趣故事。快和我们一起走进商业的世界吧。</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/>
+      <link>https://justpodmedia.com/CKGSB Time/</link>
+      <author>长江商学院CKGSB</author>
+      <pubDate>Tue, 08 Dec 2020 06:49:31 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-trailer-20201208.mp3</guid>
+      <enclosure type="audio/mpeg" length="1493734" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-trailer-20201208-v2.mp3"/>
+      <itunes:duration>37</itunes:duration>
+      <itunes:episode/>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+  <item><itunes:season>1</itunes:season><title>Vol.01 机器人真的能替代人类吗？就从这里开始吧</title><itunes:title>Vol.01 机器人真的能替代人类吗？就从这里开始吧</itunes:title><description><![CDATA[<p>仓储物流这个赛道已经进入白热化阶段，在巨大的仓库里做分拣既繁琐又枯燥。正因如此，仓储运输机器人、机械臂被给予厚望，希望他们可以尽快取代人类完成这些工作。</p>
+<p></p>
+<p>随着自动化、智能化的发展，3D视觉成像更立体、更精准，解决的场景也更丰富。目前国内的3D视觉厂家多以初创型为主，以熵智科技为代表，现阶段的3D视觉厂家不得不面对海量的非标场景，在产品和解决方案的双重压力中艰难向上。</p>
+<p></p>
+<p>作为科技企业，熵智科技现在确实已经需要具备持续创新的能力。不过，如何实现技术革新和商业化落地这两点的平衡，是每一个初创公司都要冷静思考的问题。</p>
+<p></p>
+<p>本期邀请到熵智科技创始人、长江商学院智造创业MBA同学赵青，聊聊创业中怎样坚持做自己认为对的事儿、过难关以及如何和投资人做双向选择的故事。</p>
+<p></p>
+<p>【主持】</p>
+<p>扶摇</p>
+<p></p>
+<p>【嘉宾】</p>
+<p>赵青，熵智科技创始人，长江商学院智造创业MBA二期同学</p>
+<p></p>
+<p>【时间轴】</p>
+<p>02:05  中国、日本、美国三个国家的制造业差异</p>
+<p>06:37  工业智能机器人的时代背景</p>
+<p>11:35  硬件制造的投资环境</p>
+<p>15:50  不循规蹈矩的赵青骑车去拉萨，也离开大公司去创业</p>
+<p>20:30  做企业最难的部分就是怎么坚持做自己认为对的事儿</p>
+<p>27:00  机器人技术的皇冠：机器人3D空间抓取</p>
+<p>34:28  复杂的光学系统迭代时间很长，基本上是九死一生</p>
+<p>40:30  纯属偶然地来到了长江，赵青却有了意外的收获</p>
+<p></p>
+<p>【本期提到的人物和资料】</p>
+<p>| FANUC 发那科机器人</p>
+<p>| KIVA输送机器人</p>
+<p>| 热力学第二定律</p>
+<p>| 仓储物流</p>
+<p>| 宝洁公司</p>
+<p>| 谷歌Sprint冲刺法</p>
+<p>| 3D空间无序抓取</p>
+<p>| AGV和自动传输系统</p>
+<p>| 第一性原理</p>
+<p>| MVP：minimum viable product 最简单可行产品</p>
+<p></p>
+<p>【制作总监】王若弛</p>
+<p></p>
+<p>【主播手记】</p>
+<p>这两年工业领域的创业机会越来越多，从前不受待见的“脏乱差行业”也逐渐被投资者看重。</p>
+<p></p>
+<p>以前在投资人眼中，这是一件很传统的事情，不是那么酷。它的增长速度也确实不像互联网产品，或者一般消费级的产品，那么有爆发力。再加上大多风投机构对工厂这个场景不够熟悉，自然不太热衷。</p>
+<p></p>
+<p>实际上在这个行业也一直有一群默默耕耘的人。一部分是在行业内摸爬滚打10年以上的老人，积累了经验和资源后，从自己熟悉的业务实现技术上的创新；也有一些因为环境变好，年富力强的工业界新秀或者正值事业高峰的创业者加入进来，他们不完全依靠过去的积累，不完全打熟悉的业务，而是做出一些创新的东西，去适应工厂智能制造的需求。</p>
+<p></p>
+<p>「长江TIME」从本期开始，邀请长江商学院智造创业MBA的同学分别讲述自己所在领域的痛点难点、时代机遇和他们自己的创业故事。</p>
+<p></p>
+<p>【收听方式】</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">小宇宙App</a>或任意<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>【联系方式】</p>
+<p>邮箱：fygeng@ckgsb.edu.cn&nbsp;</p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.01 机器人真的能替代人类吗？就从这里开始吧/</link><author>长江商学院CKGSB</author><pubDate>Tue, 29 Dec 2020 20:44:50 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep01-20201230.mp3</guid><enclosure type="audio/mpeg" length="49586539" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep01-20201230.mp3"/><itunes:duration>2974</itunes:duration><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.02 风口上的芯片：国产芯片的春天来了？</title><itunes:title>Vol.02 风口上的芯片：国产芯片的春天来了？</itunes:title><description><![CDATA[<p>这两年工业领域的创业机会越来越多，从前不受待见的“脏乱差行业”也逐渐被投资者看重。</p>
+<p></p>
+<p>以前在投资人眼中，这是一件很传统的事情，不是那么酷。它的增长速度也确实不像互联网产品，或者一般消费级的产品，那么有爆发力。再加上大多风投机构对工厂这个场景不够熟悉，自然不太热衷。</p>
+<p></p>
+<p>实际上在这个行业也一直有一群默默耕耘的人。一部分是在行业内摸爬滚打10年以上的老人，积累了经验和资源后，从自己熟悉的业务实现技术上的创新；也有一些因为环境变好，年富力强的工业界新秀或者正值事业高峰的创业者加入进来，他们不完全依靠过去的积累，不完全打熟悉的业务，而是做出一些创新的东西，去适应工厂智能制造的需求。</p>
+<p></p>
+<p>「长江TIME」是由长江商学院官方出品的播客，本期邀请长江商学院智造创业MBA的同学分别讲述自己所在领域的痛点难点、时代机遇和他们自己的创业故事。</p>
+<p></p>
+<p>【主持】</p>
+<p>扶摇</p>
+<p></p>
+<p>【嘉宾】</p>
+<p>黄斌华，深圳昂科技术创始人，长江商学院智造创业MBA一期</p>
+<p></p>
+<p>【时间轴】</p>
+<p>01:51 为什么中国造不出来高精尖芯片</p>
+<p>04:10 晶圆制造上的卡脖子</p>
+<p>09:30 在金钱上节省，但在时间上成了“三陪”</p>
+<p>15:30 疫情和制造业外迁对于行业的影响：成本增加，但也打开了国际市场</p>
+<p>20:32 来长江的智造创业MBA之后的意外收获</p>
+<p>24:46 To B的企业怎么做营销</p>
+<p>30:30 和台湾、日本收购的子公司的沟通方法</p>
+<p>35:04 关于创业公司打价格战：上兵伐谋，其次伐交，其次伐兵，其下攻城</p>
+<p>38:50 创新不是颠覆，是一点点的改变</p>
+<p></p>
+<p>【本期提到的人物和资料】</p>
+<p>丨 芯片烧录</p>
+<p>丨 台积电、富士康</p>
+<p>丨 华为、中兴</p>
+<p>丨 晶圆制造</p>
+<p>丨 荷兰ASML公司</p>
+<p>丨第一性原则</p>
+<p>丨To B企业营销</p>
+<p></p>
+<p>【主播手记】</p>
+<p>从去年到今年被市场讨论最多的话题是芯片话题，最热的股票之一是中芯国际，当然还有一连串眼花缭乱的数字，比如新股成百倍认购、首日股价飙涨超200%、市值突破千亿大关，这些都让外界直呼“国产芯片的春天来了”。《华尔街日报》预测，预计在2030年，中国大陆将成为世界上最大的半导体生产工厂。</p>
+<p></p>
+<p>小小的芯片，其实承载许多。仅仅是一个手机就可能涉及到芯片产业的各个环节，比如硬盘、内存、屏幕、摄像头芯片、射频芯片服务器、CPU、GPU、电源管理等等都离不开芯片。而芯片的材料目前是由美国和日本垄断，比如说大硅片、掩模板、光刻胶、溅射靶材、抛光液等等。</p>
+<p></p>
+<p>从国产替代的角度来看，目前的确是一个机遇期，以前国内厂商生产出来的东西还得让别人采购。现在金主拿着钱，蹲在你家门口，盯着你生产，只要基础达标全部买走。</p>
+<p></p>
+<p>不过高光之下也有阴影，在产业链的布局上，中国半导体企业除了缺少知识产权，还缺少半导体材料如晶圆，半导体设备如光刻机也是急需要解决的一个问题。而卡脖子的现象也一直在发生，以前美国打击的是半导体设计，而现在主要针对的是半导体设备和制造领域。</p>
+<p></p>
+<p>但是可以看到的一点是，在人工智能技术快速发展的今天，半导体行业也开始逐渐向上游产业链转移了，这是一个好征兆。</p>
+<p></p>
+<p>这一期我们就请来深圳昂科技术创始人、长江商学院智造创业MBA一期同学黄斌华来分享他在芯片烧录创业路上的故事，以及他对于芯片卡脖子的看法。</p>
+<p></p>
+<p>【制作总监】王若弛</p>
+<p></p>
+<p>【收听方式】</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">小宇宙App</a>或任意<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>【联系方式】</p>
+<p>邮箱：fygeng@ckgsb.edu.cn&nbsp;</p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.02 风口上的芯片：国产芯片的春天来了？/</link><author>长江商学院CKGSB</author><pubDate>Tue, 19 Jan 2021 09:30:57 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep02-20210119.mp3</guid><enclosure type="audio/mpeg" length="40055769" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep02-20210119.mp3"/><itunes:duration>2386</itunes:duration><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.03 从“默认信任”到“零信任”是未来远程办公的趋势么？</title><itunes:title>Vol.03 从“默认信任”到“零信任”是未来远程办公的趋势么？</itunes:title><description><![CDATA[<p>【主播手记】</p>
+<p></p>
+<p>突如其来的疫情加速改变了企业的工作方式，很多科技大公司甚至允许员工永久居家办公，云办公系统也成为了广大企业用户在家办公的必要工具。</p>
+<p></p>
+<p>同时，人们也因此加深了对信息安全问题的思考：信息与通信技术应用在商业环境里，不仅提高了企业的生产效率，也极大地推动了社会的数字化，但用户信息的泄露和盗用、病毒引起的数据丢失，甚至外部攻击导致的业务停顿等问题也都层出不穷，这些都对企业和社会发展产生了极大的影响。</p>
+<p></p>
+<p>企业决策者们面临的一个巨大挑战是：如何确保日益复杂的IT系统能够长期安全可靠地运转。</p>
+<p></p>
+<p>在传统安全理念中，企业的服务器和终端办公设备主要运行在内部网络环境中，因此企业的网络安全也主要是围绕着网络的“墙”来建设的，这就是大家所熟知的基于防火墙的边界防御的安全模型。然而物理安全边界有天然的局限性，随着企业开始拥抱云计算、大数据、移动互联网、物联网等新趋势，今天的企业不可能把数据局限在自己的内网里。</p>
+<p></p>
+<p>比如说，企业要上云，但不可能把“公有云”装入自己的防火墙里面；企业要拥抱移动办公、物联网，但防火墙也没有办法覆盖外边的酒店机场等各个角落；企业要拥抱大数据，就不可避免地要和外部合作伙伴机构发生数据的交换。因此，传统安全边界正在新技术的驱使下逐渐瓦解，在万物互联的新时代变得过时甚至成为障碍。</p>
+<p></p>
+<p>在这样的时代背景下，基于零信任(Zero Trust)安全理念的软件定义边界（SDP）新一代网络安全架构顺势而生。这个听上去有点陌生的概念实际打破了传统安全边界的理念，它不再默认企业物理边界内的安全性，不再基于用户与设备在网络中的位置来判断是否可信，而是始终验证用户的身份和设备的合法性以及权限，也就是“永不信任，始终校验（Never Trust, Always Verify）”。</p>
+<p></p>
+<p>而在2019年9月份，工信部公开征求对《关于促进网络安全产业发展的指导意见（征求意见稿）》的意见中，《意见》指出到2025年，要培育形成一批年营收超过20亿的网络安全企业，形成若干具有国际竞争力的网络安全骨干企业，网络安全产业规模要超过2000亿。除了提出对市场规模和网安企业的要求，该《意见》还将“零信任安全”列入网络安全需要重点突破的关键技术。从国家的层面来讲，随着以网络安全法颁布为标志的一系列法律法规及各类标注的推出，网际空间的安全已经上升为中国的重要国家战略。可以说，网络安全已不仅仅是企业内部的问题，更成为企业合法合规开展业务的重要组成部分。</p>
+<p></p>
+<p>这一期我们就请来云深互联的创始人和CEO、长江商学院VC STAR二期班同学陈本峰来跟大家聊聊究竟什么是“零信任架构”，它与传统的边界模型有什么区别，它如何被应用到企业中，以及为什么“零信任”如此重要。</p>
+<p></p>
+<p>【主持】</p>
+<p>扶摇</p>
+<p></p>
+<p>【嘉宾】</p>
+<p>陈本峰，云深互联的创始人和CEO、长江商学院VC STAR二期班</p>
+<p></p>
+<p>【时间轴】</p>
+<p>0:52 云深互联名字的由来：“云深不知处，只在此山中”：旨在帮助企业的数据都可以不被黑客发现</p>
+<p>4:52 VPN就像是在墙上打个洞，有很多安全问题</p>
+<p>14:00 陈本峰开始做“零信任”的原因：从大型企业移动办公云平台开始</p>
+<p>19:20 适合“零信任”系统的客户实例</p>
+<p>21:20 “零信任”可以真的完全实现么？</p>
+<p>24:30 安全是发展的前提，“零信任”被国家放在很重要的位置</p>
+<p>27:10 全世界面临的难题：网络安全到底如何治理</p>
+<p>30:40 中美技术之争，实际上长期是“竞合关系”</p>
+<p>32:23 陈本峰加入长江商学院的VC STAR项目，打开眼界，认识了不同背景的同学，学到了更多的管理知识</p>
+<p>37:05 疫情期间云深互联为有困难的企业提供了远程办公的帮助</p>
+<p></p>
+<p>【本期提到的人物和资料】</p>
+<p>| 零信任网络：自2010年被提出不断受到讨论，技术正在逐渐发展</p>
+<p>| 《Gartner零信任网络访问产品市场指南》</p>
+<p>| 软件定义边界(SDP)</p>
+<p>| 内网、外网</p>
+<p>| VPN</p>
+<p>| 大型企业移动办公云平台</p>
+<p>| Cloud Service 云服务</p>
+<p>| Zscaler公司</p>
+<p>| 长江商学院的VC STAR项目</p>
+<p></p>
+<p>【制作总监】王若弛</p>
+<p></p>
+<p>【收听方式】</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">小宇宙App</a>或任意<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>【联系方式】</p>
+<p>邮箱：fygeng@ckgsb.edu.cn&nbsp;</p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.03 从“默认信任”到“零信任”是未来远程办公的趋势么？/</link><author>长江商学院CKGSB</author><pubDate>Wed, 03 Feb 2021 14:36:27 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep03-20210203.mp3</guid><enclosure type="audio/mpeg" length="40189406" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep03-20210203.mp3"/><itunes:duration>2278</itunes:duration><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.4 毕业即创业，是一种什么体验？</title><itunes:title>Vol.4 毕业即创业，是一种什么体验？</itunes:title><description><![CDATA[<p>【主播手记】</p>
+<p>大学生从踏入校园就开始思考的职场道路现在也有了新的选择：创业。</p>
+<p></p>
+<p>创业本身是一条很难的路。有人认为20多岁的年轻人不具备创业能力，建议毕业生应该先去公司里锻炼自己，但另一方面，因为国家和社会的鼓励，并且为大学生创业提供了各种政策支持和帮扶，为其创造了前所未有的创业环境和氛围。</p>
+<p></p>
+<p>研究生毕业之后即投入到创业浪潮中的心勍科技创始人、CEO，长江商学院智造创业MBA一期的李成同学就是一名白手起家的学生创业者。他在创业的道路上尝试过不同的产业和产品，也会遇到团队不稳定、客户不稳定、资金流不稳定的状况，每天他都要解决各式各样的问题，他自己形容是“每一条神经都被调动起来了”。虽然经验不足，但是作为年轻的创业者，他充满激情和“初生牛犊不怕虎”的精神还是发挥到了极致。</p>
+<p></p>
+<p>而作为AR/VR的赛道上的创业者，面对疫情，他也不断尝试创新点，从中发现更多的机会，工业领域的图形图像的项目落地和产品开发也因此完成。</p>
+<p></p>
+<p>本期《长江Time》就让我们和李成同学聊一聊，听听他的毕业即创业的经验和在VR/AR工业化应用上的实战经验。</p>
+<p></p>
+<p>【主持】</p>
+<p>扶摇</p>
+<p>【嘉宾】</p>
+<p>李成，心勍科技创始人 &amp; CEO，长江商学院智造创业MBA一期同学</p>
+<p></p>
+<p>【时间轴】</p>
+<p>02:35  稳定的、源源不断的需求才能形成一个市场，现在AR/VR市场还不成熟</p>
+<p>05:31  AR/VR的内容和设备的精准度息息相关</p>
+<p>08:47  从学校的毕业项目变成一个创业项目</p>
+<p>15:00  AR/VR跟现实的交互结合可以大量应用到设备检修的过程中</p>
+<p>20:40  上市对于标准化的帮助非常大</p>
+<p>24:10  选择有时候耗费精力，纯粹的创业者就做好当下的事情</p>
+<p>26:40  在商学院里拓展视野、提高认知，而且学会感知</p>
+<p>32:10  白手起家的创业者需要学的东西特别多，我们在商学院里也在找志趣相同的伙伴，不是一个人在奋斗</p>
+<p>37:34  关于成功的定义，在创业过程中会有不同的理解</p>
+<p></p>
+<p>【制作总监】王若弛</p>
+<p></p>
+<p>【收听方式】</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>【联系方式】</p>
+<p>邮箱：fygeng@ckgsb.edu.cn&nbsp;</p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.4 毕业即创业，是一种什么体验？/</link><author>长江商学院CKGSB</author><pubDate>Tue, 20 Apr 2021 06:47:05 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep04-20210420.mp3</guid><enclosure type="audio/mpeg" length="40300920" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep04-20210420.mp3"/><itunes:duration>2480</itunes:duration><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.5 二手奢侈品的秘密，一次统统告诉你</title><itunes:title>Vol.5 二手奢侈品的秘密，一次统统告诉你</itunes:title><description><![CDATA[<p>【主播手记】</p>
+<p>本期《长江Time》的嘉宾是二手奢侈品平台胖虎的两位联合创始人马成和宋博。</p>
+<p></p>
+<p>马成在十几年前上大学的时候就在ebay上靠卖游戏设备赚到十几万美金，也就是在那个时候赚到了第一桶金，开始接触奢侈品。在接下来的十几年中，他在奢侈品的买卖过程中不断累积经验，成立二手奢侈品公司、开线下店、做奢侈品鉴定，最终和同样有着创业热情的宋博一起做二手奢侈品平台“胖虎”。</p>
+<p></p>
+<p>为什么叫“胖虎”？还是和他的猫紧密相关。马成自己热爱收藏各种品牌的奢侈品包，而他的猫胖虎却独爱LV。按照马成的话说：“我的胖虎喜欢在LV上睡觉，在其他包上撒尿。。。”</p>
+<p></p>
+<p>本期节目，我们就请这位爱猫比爱奢侈品多的二手奢侈品平台创始人聊聊他的创业故事，也听听他是怎么鉴别各种奢侈品真伪的，这里面有各种小窍门。另外，对于整个奢侈品市场的发展，以及和奢侈品消费大国日本相比，我们中国是在一个什么阶段，马成都有回答。合伙人宋博也会跟我们分享他是如何选择二手奢侈品买卖这个赛道，以及现在胖虎的发展阶段。</p>
+<p></p>
+<p>Enjoy.</p>
+<p></p>
+<p>【主持】</p>
+<p>扶摇</p>
+<p></p>
+<p>【嘉宾】</p>
+<p>马成，二手奢侈品平台“胖虎”app创始人兼董事长，长江商学院EMBA，长江创创社区校友</p>
+<p>宋博，“胖虎”app联合创始人，CEO，长江创创社区校友</p>
+<p></p>
+<p>【时间轴】</p>
+<p>3:00 在大学靠卖游戏装备，再换成奢侈品</p>
+<p>4:00 胖虎喜欢睡在LV上，在其他包上撒尿</p>
+<p>8:20 创业最重要的是选择合伙人</p>
+<p>11:20 对于二手奢侈品的买卖最重要是基于服务，关注人的东西</p>
+<p>18:00 国内的鉴定师比国外的能看到更多的假货</p>
+<p>21:55 中日奢侈品业态很不同，最重要的是互联网的应用</p>
+<p>23:30 日本人会买中国人的二手奢侈品</p>
+<p>32:20 共建Lab课程帮助胖虎实行解决方案</p>
+<p></p>
+<p>【本期节目人物和资料】</p>
+<p>捷豹</p>
+<p>3D拍照</p>
+<p>后加钻手表</p>
+<p>日本奢侈品业态</p>
+<p>中古奢侈品</p>
+<p></p>
+<p>【制作总监】王若弛</p>
+<p></p>
+<p>【收听方式】</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>【联系方式】</p>
+<p>邮箱：fygeng@ckgsb.edu.cn&nbsp;</p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.5 二手奢侈品的秘密，一次统统告诉你/</link><author>长江商学院CKGSB</author><pubDate>Thu, 29 Apr 2021 04:04:16 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep05-20210427.mp3</guid><enclosure type="audio/mpeg" length="38527536" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep05-20210427.mp3"/><itunes:duration>2331</itunes:duration><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.6 如何做一名不焦虑的创业者？</title><itunes:title>Vol.6 如何做一名不焦虑的创业者？</itunes:title><description><![CDATA[<p>【主播手记】</p><p>“智能制造”是工业4.0时代制造业升级发展的重要关键词。国家“十四五”规划指出要深入实施智能制造工程，建设智能制造示范工厂，鼓励企业应用先进适用技术增强核心竞争力，从而推动制造业优化升级。而随着自动化成为工业4.0时代制造和仓库运营的新常态，顺应这波工业浪潮的机器人工业也掀起了更新换代的浪潮。</p><p></p><p>在工业机器人的细分领域，相较于传统轨道和二维码AGV（机器人），AMR（自主工业移动机器人）适应性更强、机动性更好。这次采访的王茂林同学就是AMR行业的典型企业斯坦德机器人有限公司的合伙人。</p><p></p><p>他说斯坦德公司一定要强调是“移动机器人”，因为他们研发的机器人能自如地穿梭在各生产线间，载着大大小小的物料有序奔向目的地。同时，它们还能有效避开障碍物，保证各个运输线路的稳定通畅。“这是无人驾驶技术和调度系统”。</p><p></p><p>也恰好是在最近，大名鼎鼎的机器人制造商美国波士顿动力公司（Boston Dynamics）新近又推出了一款用于工业搬运的新型机器人Stretch。</p><p></p><p>Stretch最大的本领是能像人一样在任何地方移动箱子，这也是该公司推出的第一个能够真正用于物流领域的机器人。波士顿动力业务发展副总裁迈克尔·佩里（Michael Perry）表示，Stretch是该公司根据全球各地公司的诉求推出的首款能够完成任务的机器人。佩里在视频采访中说“我们在仓库中普遍听到人们抱怨，搬货卸货是令人最不愉快的工作之一，对人体力的伤害最大，Stretch就是专门用于解决这方面问题的。”</p><p></p><p>实际上，工业物流行业的需求巨大，尤其需要新技术的迭代和创新，这几年机器人在工业物流领域的新应用在不断增长，但是突破性的技术的、真正落地的应用仍然不多。这方面的原因，我们也来听听这家新晋的移动机器人公司合伙人、CMO王茂林的分享。</p><p></p><p>除了这些硬核内容，茂林同学的第一次创业经历也非常有趣，他帮助过无数乡村教师匹配到合适的学科和学生。在他看来，帮助别人的确带来了巨大的成就感和幸福感，我们也来听听这位不焦虑的创业者的故事吧。</p><p></p><p>【主持】</p><p>扶摇</p><p></p><p>【嘉宾】</p><p>王茂林，斯坦德机器人合伙人，长江商学院智造创业MBA首期班同学</p><p></p><p>【时间轴】</p><p>02:30  如何解决柔性物流工业化的问题</p><p>04:35  工厂仓库里的“滴滴”</p><p>07:28  中国工业产品的出海优势是颠覆式创新，不要上升到文化层面</p><p>11:06  第一次创业做乡村教师平台</p><p>13:19  真正让人心情愉悦、摆脱焦虑的方法是“帮助别人”</p><p>19:38  初创企业的研发投入要足够大，也要有正向循环</p><p>21:40  茂林在两次创业中遇到的各种“坑儿”</p><p>27:00  创新是可以习得的，但是做到100分光靠学习是不行的，也需要天赋</p><p></p><p>【本期节目人物和资料】</p><p>柔性移动机器人</p><p>端到端柔性物流解决方案</p><p>机械臂</p><p>机器视觉</p><p>工业机器人</p><p>工业领域出海</p><p>工业物流</p><p></p><p>【制作总监】王若弛</p><p></p><p>【收听方式】</p><p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅收</a>听。</p><p></p><p>【联系方式】</p><p>邮箱：fygeng@ckgsb.edu.cn </p><p></p><p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/长江TIME/6</link><author>长江商学院CKGSB</author><pubDate>Thu, 27 May 2021 13:59:02 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/ckgsb-20210527-ep6.mp3</guid><enclosure type="audio/mpeg" length="30793529" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/ckgsb-20210527-ep6.mp3"/><itunes:duration>1911</itunes:duration><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.7 他削发明志，十年，只为救人一命！</title><itunes:title>Vol.7 他削发明志，十年，只为救人一命！</itunes:title><description><![CDATA[<p>- 主播手记 -</p><p>当一位马拉松跑者因心脏骤停而忽然倒下，救活他的时间只有4分钟。</p><p>“黄金四分钟”后，人的大脑便开始不可逆地坏死。</p><p>在中国，每年心脏猝死的总人数居全球之最，高达54万人，平均每天约1500人因心脏猝死而离世。</p><p>如果在心脏骤停的1分钟之内对患者进行心肺复苏和电击除颤，救活率或可以达到90%。而在中国，心脏骤停的救活率却低于1%，几乎等同于猝死。</p><p>当危急发生，没有人愿意坐以待毙。而医生恰巧在身边的概率几乎为零，谁能与时间赛跑，挽救生命？</p><p>第一反应创始人、长江商学院创创社区学员陆乐相信：只要能实现“黄金4分钟”，就能打败死神，就能挽救千千万万的生命。</p><p>这一切，靠AED设备的普及，靠急救知识与技能的普及，靠急救系统的整体提升；这一切，正是陆乐和第一反应正在解决的社会痛点。</p><p>近十年间，第一反应保障服务了国内外大量马拉松赛事，救活率居全球首位。与此同时，陆乐和他的团队还培训了将近四万名拿到国际急救证书的急救志愿者。</p><p>从马拉松赛场的黄金四分钟开始，陆乐多次打败了死神，也一步一步改变了中国“黄金四分钟”急救格局。</p><p></p><p>- 主持 -</p><p>扶摇</p><p></p><p>- 嘉宾 -</p><p>陆乐，第一反应创始人、CEO，长江创创社区校友</p><p></p><p>- 制作总监 -&nbsp;</p><p>王若弛</p><p></p><p>- 收听方式 -</p><p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90?s=eyJ1IjogIjVlNGZmMmMzZTNlZGZjMmFiYjA1YTcxNyJ9" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p><p></p><p>- 联系方式 -</p><p>邮箱：fygeng@ckgsb.edu.cn </p><p></p><p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/长江TIME/7</link><author>长江商学院CKGSB</author><pubDate>Tue, 27 Jul 2021 09:19:19 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/ckgsb-ep7-20210527.mp3</guid><enclosure type="audio/mpeg" length="48839303" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/ckgsb-ep7-20210527.mp3"/><itunes:duration>2979</itunes:duration><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.8 他给电子元器件造了一个“线上富士康”</title><itunes:title>Vol.8 他给电子元器件造了一个“线上富士康”</itunes:title><description><![CDATA[<p>- 主播手记 -</p><p>作为一个制造业的从业者，尤其是电子元器件的从业者，要如何在浩如烟海的网络信息中找到合适自己的产品呢？找到之后又如何组装呢？</p><p>今天介绍的百芯智能制造科技有限公司创始人、长江商学院智造创业MBA二期班同学宋俊纬就做了一件高难度整合的项目，如他自己所说，他做了一站式柔性化EMS超级平台。这个平台，既要做好前期的大数据整理，又要做好真假货的辨认，还要做好之后的制造，将传统生产链条上的业务重新拿出来再做一遍，“每一个环节拿出来都可以是一个单独的创业公司”。</p><p>作为中国制造业的一名创业者，宋俊纬说，很多在互联网圈已经不新鲜的事儿拿到制造业依然是特别先进的，制造业提升空间巨大。</p><p>长江商学院创办院长项兵最近在《财经》杂志上撰文《制造业：新格局下如何发展与变革》也强调：“未来，中国制造业加快数字化转型，在供应链体系的数字化连接，生产组织柔性管理，依据消费者需求反向定制生产等方面，锐意创新，以新的生产管理模式和新的商业模式，颠覆传统制造业规模经济主导的发展方式，加快构建工业4.0时代的竞争优势，以此引领全球制造业的变革发展。”</p><p>宋俊纬正是走在数字化转型和柔性管理的前线，他在录这期播客中提到了自己步步为营从一个优秀的销售到创办自己的公司解决制造业的难题，也讲述了现实中遇到的人才招聘瓶颈。</p><p>要实现“中国制造”由大而强，要有基础、有基因、有条件、有优势、有人才，一步一步，稳扎稳打。那就让我们来听听在“中国制造”前线的亲历者宋俊纬的创业故事吧。</p><p></p><p>- 主持 -</p><p>扶摇</p><p></p><p>- 嘉宾 -</p><p>宋俊纬，百芯智能制造科技有限公司创始人、长江商学院智造创业MBA二期班同学</p><p></p><p>- 时间轴 -&nbsp;</p><p>02:30 电子制造的一站式柔性化EMS超级平台</p><p>04:57 第一步要做好大数据平台</p><p>08:00 开放式平台解决不了假货问题，to B业务的假货造成的问题更严重</p><p>13:40 “创业”不仅是做一个生意，而是对行业有重塑赋能</p><p>18:00 在长江遇到的同学都变成了自己的客户</p><p>21:27 柔性制造方面，中国做得更好</p><p>23:42 希望在长江学到更多组织人才KPI和愿景的知识</p><p>28:30 初创企业的成功离不开选好赛道、优秀的合伙人、运气，三者缺一不可</p><p></p><p>- 本期节目提到的人物和资料 -</p><p>l  电子元器件供应链平台</p><p>l  富士康</p><p>l  包工包料</p><p>l  PCB行业</p><p>l  戴森dyson</p><p></p><p>- 制作总监 -&nbsp;</p><p>王若弛</p><p></p><p>- 收听方式 -</p><p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90?s=eyJ1IjogIjVlNGZmMmMzZTNlZGZjMmFiYjA1YTcxNyJ9" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p><p></p><p>- 联系方式 -</p><p>邮箱：fygeng@ckgsb.edu.cn </p><p></p><p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/长江TIME/8</link><author>长江商学院CKGSB</author><pubDate>Tue, 27 Jul 2021 09:28:44 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep08-20210617.mp3</guid><enclosure type="audio/mpeg" length="30006275" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep08-20210617.mp3"/><itunes:duration>1789</itunes:duration><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.9 对话煮叶刘芳：创业，需要看清本质，守住本心</title><itunes:title>Vol.9 对话煮叶刘芳：创业，需要看清本质，守住本心</itunes:title><description><![CDATA[<p>- 主播手记 -</p><p>近几年，新茶饮品牌突飞猛进，成为新消费赛道中的“流量担当”。在一众新茶饮品牌中，煮叶是个独特的存在，不仅是因为茶，更在于它营造的氛围。</p><p>这次和刘芳见面，我们首先就对煮叶的空间设计进行了讨论，包括为什么请原研哉做全空间的设计师，为什么有大量的留白，中国人饮茶的场所和咖啡馆的区别等等。</p><p>而作为曾经的星巴克高管，刘芳对于星巴克长盛不衰的秘诀也有着自己深入的分析。她更是把这些方法集中到了煮叶上：她结合星巴克的国际化和煮叶的东方审美，将煮叶的核心灵魂定位在中国人的美好生活方式，做出一个有品有趣的“慢”生意。</p><p>本期，我们就请来煮叶的创始人、长江创创社区校友刘芳，听听她多年拼搏的经验，和对整个饮料市场的深入分析。</p><p></p><p>- 主持 -</p><p>扶摇</p><p></p><p>- 嘉宾 -</p><p>刘芳，煮叶创始人兼CEO、长江创创社区校友</p><p></p><p>- 时间轴 -&nbsp;</p><p>1:30  煮叶的空间设计是当代中国和传统文化的结合，重点是留白、舒适，是人和茶对话的空间</p><p>3:00  原研哉和煮叶的缘分</p><p>6:44  工作时候的原研哉是什么样子？</p><p>9:30  刘芳选择做茶店而非咖啡店的原因</p><p>11:12  星巴克长盛不衰的要素</p><p>15:06  煮叶的核心灵魂是中国人的生活方式</p><p>19:18  咖啡和茶市场仍然有巨大的机会，竞争还会更激烈，团队能力是关键</p><p>22:50  创业路上没有最大的问题，而是不断遇上新问题，是从一个坑爬出来再掉进去另一个坑</p><p>25:45  创新的本质不是好看的外衣，是创造价值、解决问题。创业也是相信自己的过程。</p><p>32:00  活在这个时代，应该回到真实生活中去；无论多忙都应该尽量善待自己和别人</p><p></p><p>- 制作总监-&nbsp;</p><p>王若弛</p><p></p><p>- 收听方式 -</p><p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">Apple播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90?s=eyJ1IjogIjVlNGZmMmMzZTNlZGZjMmFiYjA1YTcxNyJ9" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p><p></p><p>- 联系方式 -</p><p>邮箱：fygeng@ckgsb.edu.cn </p><p></p><p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/长江TIME/9</link><author>长江商学院CKGSB</author><pubDate>Tue, 27 Jul 2021 09:44:18 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep09-20210717.mp3</guid><enclosure type="audio/mpeg" length="33275963" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep09-20210717.mp3"/><itunes:duration>2066</itunes:duration><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType></item><item><itunes:season>1</itunes:season><title>Vol.10 从《山海情》山区走向世界，再回来帮助更多人</title><itunes:title>Vol.10 从《山海情》山区走向世界，再回来帮助更多人</itunes:title><description><![CDATA[<p>- 主播手记 -</p>
+<p>《山海情》第一集里面有一个镜头，干部去村民家拜访，一推门，村民赶紧躲进被窝儿里。干部问村民为啥大白天不穿裤子，村民说因为弟弟要出门，家里三个兄弟就一条裤子。“这个事情，是真的。”刘端阳这么跟我说。</p>
+<p>刘端阳就是出生在《山海情》里描写的宁夏西海固，这个被称为“贫瘠甲天下”的地方。他说虽然自己家没有穷到几个人穿一条裤子，但是生活条件确实非常艰苦，“我们每个人还有自己的裤子，只不过一条裤子穿好多年”。</p>
+<p>就是在这样的条件下，刘端阳12岁考入中国科学技术大学少年班，先后就读于东北大学、清华大学、美国斯坦福大学，然后在Google总部工作，之后又回国创业。</p>
+<p>刘端阳目前所做的莫比嗨客公司成立于2016年，主营业务是为泛AI公司、大数据公司提供数据标定、人工智能解决方案、群体翻译等服务。这个需要大量人工和时间的项目实际上也成为了帮助地方脱贫的手段。比如山西吕梁这种资源型城市，原本产业结构单一，急需招商引资外部优质企业进入，但传统互联网企业对人才要求高、人才培养周期长、成本高的特点都很难真正把业务落到没有基础的城市来。莫比嗨客从“定点”-“培养”-“扶持”-“壮大”，一步一步来，给政府数字化转型、就业转型等提供了有利的抓手，为未来向数字经济转型做了铺垫，真正做到了“授人以鱼不如授人以渔”。</p>
+<p>端阳朴实无华，问他为什么想去做扶贫的事情，他说只是因为自己是被读书改变了命运，也愿意做更多的事回馈社会。而谈到创业的艰辛，端阳说：“比起我们小时候的生活，创业一点都不苦。”</p>
+<p>端阳在节目中不仅聊到了现在的创业项目，也分享了家人在他学业上的重要影响、他在家乡的生活、他自己对于Google大公司文化的看法，以及如何扶贫反馈社会。希望大家会喜欢这期，从另一个视角了解这位不平凡的创业者。</p>
+<p></p>
+<p>- 主持 -</p>
+<p>扶摇</p>
+<p></p>
+<p>- 嘉宾 -</p>
+<p>刘瑞阳，莫比嗨客有限公司创始人兼CEO、长江商学院智造创业MBA 3期同学</p>
+<p></p>
+<p>- 时间轴 -&nbsp;</p>
+<p>02:34 用拆分算法对图片进行标注</p>
+<p>04:25 现在的人工智能还是弱人工智能：“有多少人工，就有多少智能”</p>
+<p>05:23 山西吕梁的“接活基地”</p>
+<p>10:30 数据确权以及数据隐私权</p>
+<p>14:40 疫情放大了数据隐私的优点和缺点，任何技术都有两面性</p>
+<p>18:04 广东制造业的用工断层</p>
+<p>21:45 爷爷培养出了9个博士，因为“不念书就娶不上媳妇”</p>
+<p>27:55 来长江读书，体验到了“人间温暖”</p>
+<p></p>
+<p>- 制作总监-&nbsp;</p>
+<p>王若弛</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/ckgsb-time/id1543849562" target="_self">苹果播客</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/5fd0cf94dee9c1e16d5aba90?s=eyJ1IjogIjVlNGZmMmMzZTNlZGZjMmFiYjA1YTcxNyJ9" target="_self">小宇宙App</a>或<a href="https://justpodmedia.com/rss/ckgsb-time.xml" target="_self">任意泛用型播客客户端</a>订阅收听《长江TIME》，也可通过<a href="https://music.163.com/#/djradio?id=796085745" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/shangye/44388752/" target="_self">喜马拉雅</a>收听。</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>邮箱：fygeng@ckgsb.edu.cn </p>
+<p></p>
+<p>---欢迎走进「长江TIME」播客。在这档播客中你会听到长江商学院被称为“金字塔尖”的精英校友们分享私家学习心得、独家创业故事、管理公司、甚至征战全球的商业智慧；你也会听到世界级教授们具有全球视野的管理学洞见；当然，你也会了解到传说中的长江真实的样子，也少不了发生在学院里的有趣故事。因为向往大海，所以汇入长江，快和我们一起奔腾在商业的世界吧。---</p>
+]]></description><itunes:image href="https://justpodmedia.com/pic/changjiangtime.png"/><link>http://justpodmedia.com/shows/ckgsb-time/justpod/episode/Vol.10 从《山海情》山区走向世界，再回来帮助更多人/</link><author>长江商学院CKGSB</author><pubDate>Thu, 29 Jul 2021 06:13:44 GMT</pubDate><guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep10-20210728.mp3</guid><enclosure type="audio/mpeg" length="29685978" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/ckgsb-time/CKGSB-ep10-20210728.mp3"/><itunes:duration>1727</itunes:duration><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType></item></channel>
+</rss>

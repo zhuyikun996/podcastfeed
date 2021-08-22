@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>JustPod映画</title>
+    <itunes:subtitle>JustPod Pictures</itunes:subtitle>
+    <link>https://justpodmedia.com</link>
+    <atom:link href="https://justpodmedia.com/feed?ep=justpod-pictures" rel="self" type="application/rss+xml" />
+    <description>这是一档影迷向播客，由JustPod出品。 
+“每当去看影展、电影节或补片单的时候，我总会想： 如果有一档播客能聊一聊它们就好了。” 
+——节目源起于这个朴素的愿望。 
+主持：汪金卫、陆小鸟
+每周二更新：还有人记得周二电影票半价吗？
+
+JustPod是一家专业的播客制作机构，自2018年成立以来，先后打造了《忽左忽右》《去现场》《东亚观察局》《杯弓舌瘾》等广受欢迎的原创播客，也是多档优质品牌播客的制作方，如《惊奇电台》《创业内幕》《贝望录》《跳岛FM》等。</description>
+    <itunes:summary>这是一档影迷向播客，由JustPod出品。 
+“每当去看影展、电影节或补片单的时候，我总会想： 如果有一档播客能聊一聊它们就好了。” 
+——节目源起于这个朴素的愿望。 
+主持：汪金卫、陆小鸟
+每周二更新：还有人记得周二电影票半价吗？
+
+JustPod是一家专业的播客制作机构，自2018年成立以来，先后打造了《忽左忽右》《去现场》《东亚观察局》《杯弓舌瘾》等广受欢迎的原创播客，也是多档优质品牌播客的制作方，如《惊奇电台》《创业内幕》《贝望录》《跳岛FM》等。</itunes:summary>
+    <language>zh-CN</language>
+    <copyright>&amp;#169; 2019 JustPod</copyright>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>电影 影迷 上影节 上海国际电影节 北影节</itunes:keywords>
+    <itunes:author>JustPod</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="TV &amp;amp; Film">
+      <itunes:category text="Film Interviews" />
+    </itunes:category>
+    <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+    <itunes:owner>
+      <itunes:name>JustPod映画</itunes:name>
+      <itunes:email>yang1989yi@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>01. 从上影节聊起：会看院线以外的电影，是成为影迷的第一步</title>
+      <itunes:title>01. 从上影节聊起：会看院线以外的电影，是成为影迷的第一步</itunes:title>
+      <description>
+        <![CDATA[<p><span style="color: rgb(73,73,73);font-size: 11pt;">这是JustPod推出的一档影迷向播客，提前祝大家端午快乐，上影节抢票顺利！</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">“每当去看影展、电影节或补片单的时候，</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">我的内心总会涌现一个想法：</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">如果有一档播客能聊一聊它们就好了。”</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">——本节目源起于这个朴素的愿望。</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">我们目前还没有名字——</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">我们想把它的命名权交给你：</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">如果你听完节目后脑中浮现一个名字，请在评论区告诉我们，一旦选中，我们会送你一份特别的礼物。</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 主播 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">汪金卫：资深影痴</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">陆小鸟：不敢自称影迷的电影爱好者</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 时间轴 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">2:08 影痴汪金卫的自白</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">5:30 陆小鸟的一次迷影时刻</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">7:16 关于“影迷”的讨论：“一个人看电影”很重要</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">12:35 会看院线上映以外的电影，是成为影迷的第一步</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">14:35 补电影，从哪里开始？</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">19:15 电影节、影展、民间放映机构介绍（欢迎评论区补充）</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">23:23 上海国际电影节：华语唯一的A类电影节</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">31:42 上影节的难忘经历</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">38:52 2021上影节片单推荐(1)</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">01:00:23 抢票经验！（欢迎评论区补充）</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">01:06:02 上影节抢票群（关注「播客一下」，回复“上影节”）</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- Music -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">片头曲：《Sweetly Breathing》 彭铠立 ，《一一》原声</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">片尾曲：《Fly me to the moon》，《新世纪福音战士》ED</span></p><p></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- Credits -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">编辑制作 杨啸天</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">制作总监 王若弛</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">公众号运营 得闻</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">视觉设计 张晋</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 收听方式 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">推荐您使用苹果播客、Spotify、小宇宙App或任意安卓播客客户端订阅收听，也可通过网易云音乐、喜马拉雅收听。 </span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 上影节转票群 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">关注微信公众号「播客一下」，回复“上影节”</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 联系方式 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">微信公众号：播客一下</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">微博：@</span><a href="https://weibo.com/u/7387305292?is_all=1" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">JustPod</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">  @</span><a href="https://weibo.com/justpod" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">播客一下 </span></a>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">合作邮箱：contact@justpod.fm</span>&nbsp;</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod Pictures/1</link>
+      <author>JustPod</author>
+      <pubDate>Mon, 31 May 2021 16:04:41 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/pictures-ep1-20210531.mp3</guid>
+      <enclosure type="audio/mpeg" length="66420167" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep1-20210531-v2.mp3" />
+      <itunes:duration>3993</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>02. 电影修复往事：被修复过的电影，都是值得看的电影</title>
+      <itunes:title>02. 电影修复往事：被修复过的电影，都是值得看的电影</itunes:title>
+      <description>
+        <![CDATA[<p>这是JustPod推出的一档影迷向播客，仍在征集名字，欢迎继续在评论区贡献你的灵感哦！</p><p>虽然前几期节目会聊上海国际电影节，但这只是个切入点，主要是从影迷视角来聊与电影有关的一切。</p><p></p><p>- 主播 -</p><p>汪金卫，资深影痴</p><p>陆小鸟，不敢自称影迷的电影爱好者</p><p></p><p>- 时间轴 -</p><p>1:45 上影节赶场美食地图</p><p>2:06 从上影节海报的《火车进站》聊起</p><p>3:33 电影院会选座位置到激光IMAX</p><p>7:08 你在电影院会吃喝吗？据说有的影院可以点串串</p><p>9:53 用激光笔维持影院秩序的“馆长”汪金卫、文明观影小组和即刻的“看电影就好好看电影”</p><p>短片（在B站搜索）：“如果你不想”文明观影/不好好看片，看我骂不死你</p><p>14:12 已被证实的传言：《咒怨》下架</p><p>14:46 最后公布的片单一览</p><p>《里夫金的电影节》《热汤》《莱拉在海法》《蝴蝶结》《岚》《亚细亚的天使》《阿甘正传》《环太平洋》《魔兽世界》《阿波罗十一号》《猛禽小队和哈莉奎茵》《阿基拉》《回归之路》《路怒症》《浪客剑心》系列《Jose与虎与鱼们》</p><p>25:04 上影节周边</p><p>26:39 为什么上海的电影院往往历史悠久？</p><p>28:52 创投新消息</p><p>30:58 关于电影修复的一切：</p><p>什么是修复，怎样修复，谁在做修复，哪些导演喜欢修复，修复伦理……</p><p>51:54 今年的4k修复片单</p><p>《我的野蛮女友》《海上钢琴师》《战场上的快乐圣诞》《女人韵事》（于佩尔）《薄荷糖》（李沧东）《阮玲玉》《胭脂扣》（《蓝羽》）</p><p>1:03:16 阿普三部曲《大地之歌》《大河之歌》《大叔之歌》的修复故事：但凡被修复的电影，都是值得看的电影</p><p>《马戏团》《美丽的折磨》《无法松的一生》《加美拉大怪兽空中决战》</p><p>1:06:29 听众群/转票群：微信关注「播客一下」，回复“上影节”</p><p></p><p>- Music -</p><p>片头曲：《牯岭街少年杀人事件》 原声 ，《Angel baby》 王柏森</p><p>插曲： 《Merry Christmas Mr. Lawrence》 坂本龍一</p><p>片尾曲：《The Godfather, Pt. 3：Coda：The Godfather Finale》 Carmine Coppola,Nino Rota</p><p></p><p>- Credits -</p><p>编辑制作 杨啸天</p><p>制作总监 王若弛</p><p>节目运营 小米粒</p><p>视觉设计 张晋</p><p></p><p>- 收听方式 -</p><p>推荐您使用<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意安卓播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p><p></p><p>- 上影节转票群 -</p><p>关注微信公众号「播客一下」，回复“上影节”</p><p></p><p>- 联系方式 -</p><p>微信公众号：播客一下</p><p>微博：<a href="https://weibo.com/justpod" target="_self">@JustPod</a>  <a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@播客一下</a>&nbsp;</p><p>合作邮箱：contact@justpod.fm</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/2</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 08 Jun 2021 12:15:24 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep2-20210608.mp3</guid>
+      <enclosure type="audio/mpeg" length="72264083" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep2-20210608.mp3" />
+      <itunes:duration>4118</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>03. 2021上海国际电影节之“最”</title>
+      <itunes:title>03. 2021上海国际电影节之“最”</itunes:title>
+      <description>
+        <![CDATA[<p>这是JustPod推出的影迷向播客，仍在征集名字，欢迎继续在评论区贡献你的灵感～</p><p></p><p>- 主播 -</p><p>汪金卫，资深影痴</p><p>陆小鸟，不敢自称影迷的电影爱好者</p><p></p><p>- 时间轴 -</p><p>1:05 从盗版碟到收藏CC蓝光</p><p>3:54 “看完片尾是我对电影的尊重方式”</p><p>5:11 “你如果没有看完一部电影，就没有权利去评价它”</p><p>5:46 “片尾也是电影的一部分”：电影院不应在片尾开灯</p><p>10:16 关于彩蛋的利弊</p><p>13:10 “一个电影如果错过了开头，我就会放弃观看”</p><p><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 14px;font-family: sans-serif;">14:37 “快进看的电影，不是同一部电影”</span>&nbsp;</p><p>15:34 亚洲新人奖的变动——后来：亚新奖影片进入了“加映片单”</p><p>16:33 本届上影节的票价和开场的技术故障</p><p>20:57 抢票战绩/败记，和上影节片单之“最”——最抢手的票、最滞销的票……哪几部电影没想到会这样？</p><p>40:44 赶场、空调和影城美食地图——关注「播客一下」回复“上影节美食”，可以看到餐厅推荐</p><p>48:20 售罄但可以求的片单推荐：《南巫》《孤注》《16个春天》《200米》《美好的世界》《困在系统中的人》《冰下的鱼》《野蛮人入侵》《电影和我父亲的死亡》《寻子遇仙记》《桃花泣血记》《花村》《末路狂花》</p><p>62:57 金爵奖</p><p>66:42 都市传说：买两张冷门电影票，展开一段恋情？</p><p></p><p>- Music -</p><p>片头曲：《堤》 原声&nbsp;</p><p>插曲：《安妮霍尔》 原声</p><p>片尾曲：《Thelma &amp; Louise》Hans Zimmer</p><p></p><p>- Credits -</p><p>编辑制作 杨啸天</p><p>制作总监 王若弛</p><p>节目运营 小米粒 小汤</p><p>视觉设计 张晋</p><p></p><p>- 收听方式 -</p><p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意安卓播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p><p></p><p>- 关注微信公众号「播客一下」-</p><p>回复“上影节”：可以加听众群</p><p>回复“上影节美食”：影院周边餐厅汇总</p><p></p><p>- 联系方式 -</p><p>微信公众号：播客一下</p><p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;</p><p>合作邮箱：contact@justpod.fm</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/3</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 15 Jun 2021 13:12:39 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep3-20210615.mp3</guid>
+      <enclosure type="audio/mpeg" length="68514940" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep3-20210615.mp3" />
+      <itunes:duration>4196</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>04. 上海釜山金马：当我跑影展时我在跑什么</title>
+      <itunes:title>04. 上海釜山金马：当我跑影展时我在跑什么</itunes:title>
+      <description>
+        <![CDATA[<p>这是JustPod推出的影迷向播客，仍在征集名字，欢迎继续在评论区贡献你的灵感～</p><p></p><p>本期节目主要包括：</p><p>梳理了亚洲为主的各地电影节，以及上海的各种影展，事无巨细，可以当半个攻略使用了，时间戳非常详细；</p><p>继续聊2021上影节难忘的电影</p><p></p><p>- 主播 -</p><p>汪金卫，资深影痴</p><p>陆小鸟，不敢自称影迷的电影爱好者</p><p></p><p>- 嘉宾 -</p><p>宇宙，从2012年开始跑上海的影展</p><p></p><p>- 时间轴 -</p><p>00:39 宇宙：“2012年买票去过天下票仓办公室”</p><p>2:10 早起线下排队买票的回忆</p><p>3:54 当我们在跑影展的时候我们在跑什么</p><p>3:35 世界，每个月都有影展/电影节在发生</p><p>6:30 “我只在上海看影展”</p><p>08:09 上艺联（上海艺术电影联盟）与“周周有影展”&nbsp;</p><p>08:56 资料馆与“全艺联”（全国艺术电影放映联盟）&nbsp;</p><p>11:47 百老汇/百丽宫的影展</p><p>12:55 领事馆与文化中心（欢迎评论区补充）</p><p>北京：法国文化中心、德国文化中心（歌德学院）</p><p>上海：德领馆文化中心（德国驻沪领事馆文化教育处）、塞万提斯（西班牙文化中心）</p><p>广州：美领馆</p><p>电影山海经：了解上海影展主要靠这个公众号</p><p></p><p>14:07 较为详细的上海影展展映影院盘点</p><p>-上海影城：12排是最佳位置</p><p>-大光明电影院：优先选二楼2排，有最佳拍照位置</p><p>-天山电影院虹桥艺术中心：服务一流，电影院界的“海底捞”</p><p>-美琪大戏院、艺海剧院：别坐2楼，只为票根</p><p>24:38 影展电影院之间的距离</p><p>上海：美琪x梅龙镇x艺海，上海影城x新衡山，和平影都x大光明</p><p>金马：西门町三家影院</p><p></p><p>22:33 贾樟柯与平遥电影节</p><p>购票：公众号与官方网站：http://www.pyiffestival.com/</p><p>相关资讯：官网、官微与导筒等电影公众号/微博</p><p>单元与厅：藏龙、卧虎、小城之春、站台</p><p>去年展映的电影：《野马分鬃》《不止不休》《妈妈和七天的时间》《裂流》</p><p>27:31 报名成为平遥「观众评审」，免费看片</p><p>29:21 金马影展的「观众票选单」、投票箱、抽奖</p><p>30:29 金马与台湾的各种电影节、影展的见面会</p><p></p><p>31:37 釜山电影节的台风后遇到蔡明亮、李沧东、坂本龙一</p><p>提到《此房是我造》《燃烧》《你的脸》</p><p>34:53 偷偷买票看自己电影观众反应的导演</p><p>提到《阳光普照》《大饿》《夕雾花园》《燃烧女子的肖像》《刻在你心底的名字》</p><p>侯孝贤与光点华山、光点台北电影院</p><p>40:09 经常见到影人的台北</p><p>朱天文、蔡明亮、侯孝贤、石隽</p><p>41:05 金马购票</p><p>国外信用卡、网站购票、自动分配座位、可退票</p><p>43:52 釜山购票</p><p>只在当天开售，每部电影60%线上、40%线下</p><p>线下二手影票流转处</p><p>47:33 “我在釜山感受到了什么叫真正的国际电影节”</p><p>（海南岛电影节映前有了中英双语介绍）</p><p>51:10 台湾的其它影展：金马奇幻影展，台北电影节，高雄电影节，桃园电影节，劳工影展，女性影展，酷儿影展</p><p>提到《摇滚芭比》《沙漠妖姬》</p><p>51:47 金马周边：手册、信封、海报……</p><p>52:14 金马、釜山影展票价太太太便宜了</p><p></p><p>—— 开幕前五天都看了什么 ——</p><p>53:49 《薄荷糖》观后：泪流满面</p><p>55:57 《艾达，怎么了》：可以与《亲爱的同志》一起看</p><p>提到了《女人韵事》《西部往事》</p><p>57:08 “今年日本新片出奇的好”</p><p>《正经乐队的糊涂战争》《亚细亚的天使》</p><p>59:30 上影节最难忘的观影经历：三浦春马遗作《天外者》</p><p>提到基耶斯洛夫斯基《影迷》，《极限职业》</p><p>64:01 电影与地点的共振：“要来上海”“你跟我来小西天”</p><p>提到《间谍之妻》《长崎漫步曲》《阿英》</p><p>64:57 再谈阿普三部曲《大地之歌》《流浪的阿普》观后</p><p>66:57 有关“我续拍我自己”</p><p>提到《异形》《黑客帝国》《指环王》</p><p>67:38 《对一个不容怀疑的公民的调查》：“我要补全导演所有作品”</p><p></p><p>- Music -</p><p>片头曲：李宰镇《薄荷糖》Opening</p><p>片尾曲：Satyajit Ray《Aparajito (《大河之歌》The Unvanquished)》</p><p></p><p>- Credits -</p><p>编辑制作 杨啸天</p><p>制作总监 王若弛</p><p>节目运营 小米粒</p><p></p><p>- 收听方式 -</p><p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意安卓播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p><p></p><p>- 关注微信公众号「播客一下」-</p><p>回复“上影节”：可以加听众群</p><p>回复“上影节美食”：影院周边餐厅汇总</p><p></p><p>- 联系方式 -</p><p>微信公众号：播客一下</p><p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;&nbsp;&nbsp;</p><p>合作邮箱：contact@justpod.fm</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/4</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 22 Jun 2021 12:59:07 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep4-20210622.mp3</guid>
+      <enclosure type="audio/mpeg" length="68627748" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep4-20210622.mp3" />
+      <itunes:duration>4272</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>05. 从上影节展映电影中的女性形象，看横跨120年的观念变迁</title>
+      <itunes:title>05. 从上影节展映电影中的女性形象，看横跨120年的观念变迁</itunes:title>
+      <description>
+        <![CDATA[<p>本期节目粗略盘点了一下2021上影节的展映影片中女性角色比较突出的电影，然后以「故事所处年代」进行了排序。</p>
+<p>从1900到2020，这20多部电影（所处年代）横跨120年，我们可以从中看到观念变迁。</p>
+<p>这是2021上影节的最后一期节目，录制于展映结束的次日（6.21），赶在了汪金卫离开上海之前</p>
+<p></p>
+<p>- 主播 -</p>
+<p>汪金卫，资深影痴</p>
+<p>陆小鸟，不敢自称影迷的电影爱好者</p>
+<p></p>
+<p>- 时间轴 -</p>
+<p>1:00 上影节战果：“我看了45部”</p>
+<p>3:39 本期节目源起：因为一个豆列——</p>
+<p>【女性导演】上影节片单豆列：https://m.douban.com/doulist/139822104/</p>
+<p></p>
+<p>- 1900-2000 -</p>
+<p>5:25 《孤苦盲女阿玲》1900s</p>
+<p>8:36 《鬼龙院花子的一生》1920s</p>
+<p>10:51 《阮玲玉》1920-1930</p>
+<p>13:47 《阮玲玉》插曲《新女性》</p>
+<p>14:21 《女人韵事》1930-1940</p>
+<p>16:34 《间谍之妻》1930s</p>
+<p>18:04 《天国车站》（提到《玩偶》）1950-1960</p>
+<p>23:04 《东洋魔女》1950s</p>
+<p>24:34 《品行不端》（又名《世界小姐逆行记》）1970s</p>
+<p>25:12 《末路狂花》1991</p>
+<p>27:31 《艾达，怎么了》1995</p>
+<p>30:43 《天使爱美丽》1991</p>
+<p>《前程似锦的女孩》《福音战士新剧场版：序、破、Q》1990s</p>
+<p></p>
+<p>- 当代（2000年后）-</p>
+<p>32:53 《我的野蛮女友》2001</p>
+<p>34:01 《由宇子的天平》（提到《难以置信》《我可以毁掉你》）</p>
+<p>37:49 《十六个春天》《绳结》</p>
+<p>39:13 《浅田家！》</p>
+<p>40:11 《砍人快乐》（又名《互换身体》）</p>
+<p></p>
+<p>- 华语电影 -</p>
+<p>41:54 《野蛮人入侵》</p>
+<p>42:46 《炼爱》</p>
+<p>43:43 《珍珠》</p>
+<p>44:35 《孤注》</p>
+<p>46:29 《出拳吧，妈妈》</p>
+<p>47:01 《热汤》</p>
+<p></p>
+<p>这是JustPod推出的影迷向播客，仍在征集名字，欢迎继续在评论区贡献你的灵感～</p>
+<p></p>
+<p>- Music -</p>
+<p>片头：Main Title - Hans Zimmer</p>
+<p>插曲：</p>
+<p>《盲女阿伶》原声</p>
+<p>野草闲花蓬春生 - 黄莺莺&nbsp;</p>
+<p>新女性 - 小虫</p>
+<p>燃えろアタック - 堀江美都子&nbsp;</p>
+<p>Thelma &amp; Louise - Hans Zimmer&nbsp;</p>
+<p>残酷な天使のテーゼ-2009VERSION - 高橋洋子</p>
+<p>The Time of Our Lives - The Venice Connection</p>
+<p>片尾：决心 - 小虫</p>
+<p></p>
+<p>- Credits -</p>
+<p>编辑制作 杨啸天</p>
+<p>制作总监 王若弛</p>
+<p>节目运营 小米粒</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意安卓播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p>
+<p></p>
+<p>- 关注微信公众号「播客一下」-</p>
+<p>回复“上影节”：可以加听众群</p>
+<p>回复“上影节美食”：影院周边餐厅汇总</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>微信公众号：播客一下</p>
+<p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下 </a>&nbsp;</p>
+<p>合作邮箱：contact@justpod.fm</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/05. 从上影节展映电影中的女性形象，看横跨120年的观念变迁/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 29 Jun 2021 08:55:28 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep5-20210629.mp3</guid>
+      <enclosure type="audio/mpeg" length="48236642" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep5-20210629.mp3" />
+      <itunes:duration>2996</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season />
+      <title>【休更一周】请看文稿 :-)</title>
+      <itunes:title>【休更一周】请看文稿 :-)</itunes:title>
+      <description>
+        <![CDATA[<p><span style="color: rgb(73,73,73);font-size: 11pt;">- 友情提示 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">虽然大多听众肯定都看过，还是提醒一下：</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">希望你在听下期节目之前，至少看过几部斯坦利·库布里克的作品。</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">没看过其实也可以，经典是不怕剧透的。</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">接下来的半个月，请与我们一同漫游库布里克的世界。</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 下面是大家贡献的节目名 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">按评论时间排序排列，有的名字多次提出，署名给第一次提出者</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">格式：播客名 - 贡献者（小宇宙/网易云等平台ID）</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">映画の一瞥 - 牟启</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">电影串串 - 没有人</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">映画会 - 七个梦</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">Just Moive / 电影好好看 / 银幕时刻 - 重启计划</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">电影节不要停 - 重力泉零号土著</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">库不理你 - Xicvona</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">开麦啦！Action！- 钱老板</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">电影说 - echo_C</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">JustMovie｜影随行 - 糖衣炮弹</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">嘉宝映画 -  宇宙</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">放映听 - 是chichi还是qiqi</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">电影爱好者 - 老K-</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">算是影迷 - 猪肉馅馅</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">完美的真空 - Sarah</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">无影沪踪 - 不加糖的阿尔卑斯</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">影迷歧视链 - Nicodemism</span></p><p><span style="color: rgb(22,21,23);font-size: 11pt;font-family: Noto Sans JP", sans-serif;">触影生情 - 李楠_F5Uo</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">如影随形 - 叶冬</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">周二半价 - sheldor</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">迷录 - 不得万一</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">正派影评 - 明明明天</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">苹果箱（早年剧组垫机器用的箱子，寓意帮助大家站高一步看电影）/ 电影方尖碑 / 电子羊映画 / 1.0倍速 / 越轴映画 / 如幕起时 / 幕起时分 / 迷影时刻 - 海妖</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">上海映话 / Movie Buff / 时光之尘 / 影迷的角落 - 奥提忒斯</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">菲林日记 - 酱爆浆</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">赛璐璐 - sonicrider</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影痴 - 差点没有掉下去</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">痴人说梦 - 贾斯特因</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影言影语 / 三千影踪 - wwwAaa</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">白日梦想Just / 影翳礼赞  (来源于古崎润一郎阴翳礼赞) - 咸鱼_0eyd</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷之鹿 - 长一</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">耳濡目染 - Olam</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">映画之上 - HD653537u</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷1/2 - ZZZZ01</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷左右 - 吾爱</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">院里线外 - HD667018z</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">三倍人生 - VivianKwan</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">Intomoive - 林意意</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">捕片捉影 - 酱姑娘</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">普通影迷 - lilyRun</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷乌托邦 - 默鸣</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">路边野花 - 最黑的铁</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影语 - 考拉冲鸭</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷聊点啥 - Nicole-IKIK</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影想 - 我的耳朵借给你</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">浸不可少 - 浸不可少</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">吃影人 - 劉_L2Yr</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">山丘映画 - 橡皮芋头</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影人入胜 - 会在雨天梦见月亮吗</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">我和你 - 像鱼一样飞行</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">迷影之声 - 真angeliur</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影话 - HD957410g</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">捕风捉影 - 伊安_8ARR</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影河漫游指南 - Wendy_U</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">大银幕 - 内森爱睡觉</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">形影不离 / 电影内外 / 影迷进行时 - 派大星</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影花缭乱 - Vonnegut129</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">去看电影吧 - 鳗鱼先生</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">三倍生命 - 星之所至</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">电光幻影 - 各月</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影料 - DHCV</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">从影院到影展 / 进击的观影团 - 77_E5Qc</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影展听 / 听影展 - 多蓝波波夫</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">24帧 - 金毛玲</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷 - SCENARIO_</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">映画前的排片表 - 真是B君</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷之路 - senkov</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">光影蒙太奇 - ChillyChan</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">指影 - HD55676r</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">映画咖啡 - 叶子_en4w</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">来趣有影 - Priscilla</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影迷重重 - 木知骚</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">重庆森林 - 北京三日</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">光影人生 - 小眼看世界</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">movie-goer 手册 / After movie / 白皮书 / 影聊TALK / 散场后 / 影谜计划 / 第七艺术 - Seabiscuit</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">浮光掠影 / 有影无踪 - Letsfeelsomething</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">形单影只 / 影吭高歌 - 小气球</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">光与影之诗 - HD788040z</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">余影绕梁 - HD6636299t</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">天堂电影院 - Echoooooo呼呼</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">木微印象 - 橙子心</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">万有影力 / 影力播 - 蝎子</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">影影灼灼 / WeCinema / 爆米花开了 / FullHouse / 映后 - YOLOLene（网易云音乐）</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">欢迎选择你喜欢的名字或者继续贡献你的灵感，真的谢谢大家啦！</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 幕后故事 -</span></p><ol><li><span style="color: rgb(73,73,73);font-size: 11pt;">我们最初想给播客取名《电影不要停！》，出处《摄影机不要停！》，但最终时刻放弃了，原因是没有百分百满意（还有人觉得色情）。</span></li><li><span style="color: rgb(73,73,73);font-size: 11pt;">本周停更的原因是对第一次录制不是很满意，精心准备后再次录制（轻拍）。</span></li></ol><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- Music -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">2001 A Space Odyssey Opening</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- Credits -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">文稿 陆小鸟</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">节目运营 小米粒</span></p><p>&nbsp;</p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 收听方式 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">推荐您使用「</span><a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">苹果播客</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">」、</span><a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">Spotify</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">、</span><a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">小宇宙App</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">、</span><a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">汽水儿</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">或</span><a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">任意安卓播客客户端</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">订阅收听，也可通过</span><a href="https://music.163.com/#/radio?id=962632425" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">网易云音乐</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">、</span><a href="https://www.ximalaya.com/yingshi/49979857/" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">喜马拉雅</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">收听。 </span></p><p></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 关注微信公众号「JustPod」-</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">回复“上影节”：可以加听众群</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">回复“上影节美食”：影院周边餐厅汇总</span></p><p></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">- 联系方式 -</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">微信公众号：播客一下 /JustPod</span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">微博：</span><a href="https://weibo.com/u/7387305292?is_all=1" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">@JustPod</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">  </span><a href="https://weibo.com/justpod" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">@播客一下 </span></a><span style="color: rgb(73,73,73);font-size: 11pt;"> </span></p><p><span style="color: rgb(73,73,73);font-size: 11pt;">合作邮箱：contact@justpod.fm</span></p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 06 Jul 2021 09:55:43 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-bonus1-20210706.mp3</guid>
+      <enclosure type="audio/mpeg" length="4221449" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-bonus1-20210706.mp3" />
+      <itunes:duration>99</itunes:duration>
+      <itunes:episode />
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>06. 打开斯坦利·库布里克的电影世界</title>
+      <itunes:title>06. 打开斯坦利·库布里克的电影世界</itunes:title>
+      <description>
+        <![CDATA[<p>不止聊影展和电影节，我们还会聊专题和大师——</p><p>电影有许多大师，斯坦利·库布里克无疑是大师中的大师。</p><p>接下来的半个月，请与我们一同漫游库布里克的电影世界。</p><p>希望你看过几部斯坦利·库布里克的作品再来收听节目——</p><p>没看过其实也可以，经典是不怕剧透的。</p><p></p><p>- 主播与嘉宾 -</p><p>汪金卫，重度影痴</p><p>重力泉零号土著（又又），散装杂食电影观众</p><p>Byron，编剧，前剪辑师</p><p></p><p>- 时间轴 -</p><p>1:48 两位新嘉宾的影迷时刻</p><p>提及：《摄影机不要停！》《地狱为何恶劣》《影迷》《机器人总动员（瓦力）》《华丽的假期》《天堂电影院》《万能钥匙》《海豚湾》</p><p>7:29 “大师中的大师”</p><p>【青少年时期】</p><p>9:15 国际象棋、摄影、第一桶金与短片《拳击之日》</p><p>提及：《马布斯博士》《M就是凶手》《幽灵马车》《寂静之地2》</p><p>【成为大师之前】</p><p>15:07 长片处女座《恐惧与欲望》与《杀手之吻》《杀手》</p><p>16:23 上帝视角的开场与有战争创伤的士兵</p><p>提及：《杀手》《巴里林登》《洛丽塔》《斯巴达克斯》《光荣之路》《全金属外壳》《蝙蝠侠：黑暗骑士》《城邦大盗》《极盗车神》《大开眼戒》《闪灵》《上海小姐》《神探》《瑞克和莫蒂S5e1》</p><p>【分水岭与中期】</p><p>22:13 分水岭：《光荣之路》</p><p>26:55 导致与柯克·道格拉斯决裂的《斯巴达克斯》</p><p>提及：《1917》《我控诉》《控方证人》《灯塔》《独眼杰克》</p><p>32:46 《洛丽塔》</p><p>提及：《房思琪的初恋乐园》</p><p>42:30 《奇爱博士——我是如何停止恐惧并爱上炸弹》</p><p>52:42 《2001太空漫游》</p><p>提及：《特别的她》《守望者》《X战警：第一战》《拯救大兵瑞恩》《潜行者》《星际穿越》《金刚大战哥斯拉》《发条橙》《双峰》《闪灵》太空漫游小说四部曲</p><p></p><p>- Music -</p><p>片头：</p><p><a href="https://www.youtube.com/watch?v=OQOMNF27kLg" target="_self">A rare interview with Stanley Kubrick.</a> There is a half-hour long documentary that uses these tapes, but this is the full recording.</p><p>Blue Danube [Excerpt] - Berliner Philharmoniker&nbsp;</p><p>插曲：</p><p>Main Title (Love Theme From Lolita) - Nelson Riddle&nbsp;</p><p>When Johnny Comes Marching Home - The Old Bethpage Brass Band&nbsp;</p><p>Dr. Strangelove (1964) Trailer&nbsp;</p><p>Also Sprach Zarathustra - Wiener Philharmoniker</p><p>Overture:Atmospheres - Sudwesfunk Orchestra&nbsp;</p><p>A Midsummer Night's Dream, Incidental Music, Op.61, MWV M 13：No.1 Scherzo - Judi Dench,Boston Symphony Orchestra,Seiji Ozawa&nbsp;</p><p>片尾：</p><p>Daisy Bell - Simon Gilbert</p><p>Hal9000 Dialogue Montage</p><p></p><p>- Credits -</p><p>文稿/策划 陆小鸟 汪金卫</p><p>编辑制作 杨啸天</p><p>制作总监 王若弛</p><p>节目运营 小米粒</p><p></p><p>- 本节目由JustPod出品 -&nbsp;</p><p></p><p>- 收听方式 -</p><p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意安卓播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p><p></p><p>- 联系方式 -</p><p>微信公众号：JustPod / 播客一下</p><p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下 </a>&nbsp;</p><p>合作邮箱：contact@justpod.fm</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/6</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 13 Jul 2021 08:30:46 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep6-20210713.mp3</guid>
+      <enclosure type="audio/mpeg" length="74547608" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep6-20210713.mp3" />
+      <itunes:duration>4641</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>07. “绝顶天才的混蛋”斯坦利·库布里克</title>
+      <itunes:title>07. “绝顶天才的混蛋”斯坦利·库布里克</itunes:title>
+      <description>
+        <![CDATA[<p>上期我们聊了斯坦利·库布里克中早期的作品，从《杀手》《恐惧与欲望》到《2001太空漫游》。本期将从《发条橙》聊到他的最后一部《大开眼戒》以及与库布里克有关的纪录片和各种轶事，除了对作品的理解，你也将更加了解库布里克的“控制狂”的一面。</p>
+<p></p>
+<p>- 主播与嘉宾 -</p>
+<p>汪金卫：重度影痴</p>
+<p>重力泉零号土著（又又）：散装杂食电影观众</p>
+<p>Byron：编剧，前剪辑师</p>
+<p></p>
+<p>- 时间轴 -</p>
+<p>1:21 导致很多模仿犯罪的《发条橙》</p>
+<p>提及：《天堂电影院》《雨中曲》</p>
+<p>9:03 为什么叫“发条橙”（clock orange）</p>
+<p>11:06 唯一跨越角色一生的《巴里·林登》</p>
+<p>20:34 《闪灵》</p>
+<p>（本期节目的录制时间是片尾大合影的100年后的同一天：2021.7.4）</p>
+<p>提及：《惊魂记》《肖申克的救赎》《银翼杀手》《头号玩家》《奇爱博士》</p>
+<p>31:25 斯皮尔伯格与库布里克的“亦师亦友”关系</p>
+<p>33:12 世界上最懂库布里克的利昂·维塔利 Leon Vitali</p>
+<p>35:41 《全金属外壳》</p>
+<p>42:46 库布里克的“内心蒙太奇”</p>
+<p>44:15 库布里克最满意的《大开眼戒》</p>
+<p>54:24 库布里克的故事并未完结</p>
+<p>提及：《库布里克电影人生》《我曾侍候过库布里克》《库布里克谈库布里克》《人工智能》</p>
+<p></p>
+<p>- Music -</p>
+<p>片头：</p>
+<p>Singing In The Rain - Gene Kelly&nbsp;</p>
+<p>发条橙 - 电影片段</p>
+<p>插曲：</p>
+<p>William Tell Overture - Wendy Carlos&nbsp;</p>
+<p>&nbsp;Hello Vietnam - Johnny Wright&nbsp;</p>
+<p>全金属外壳 - 电影片段</p>
+<p>大开眼戒 - 电影片段</p>
+<p>结尾：</p>
+<p>Musica ricercata：II. Mesto, rigido e cerimoniale - Dominic Harlan</p>
+<p></p>
+<p>标题说法来自同名著作《绝顶天才的混蛋——斯坦利·库布里克传》</p>
+<p></p>
+<p>- Credits -</p>
+<p>文稿 陆小鸟</p>
+<p>编辑制作 杨啸天</p>
+<p>制作总监 王若弛</p>
+<p>节目运营 小米粒</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意泛用型播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p>
+<p></p>
+<p>- 关注微信公众号「JustPod」-</p>
+<p>回复“影迷”：可以加听众群</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>微信公众号：JustPod / 播客一下</p>
+<p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下 </a></p>
+<p>合作邮箱：contact@justpod.fm</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/07. “绝顶天才的混蛋”斯坦利·库布里克/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 20 Jul 2021 09:52:31 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep7-20210720.mp3</guid>
+      <enclosure type="audio/mpeg" length="58641123" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep7-20210720.mp3" />
+      <itunes:duration>3654</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>08. 对谈《热带往事》导演与作曲：也许会付出代价，处女作应该是大胆的探索</title>
+      <itunes:title>08. 对谈《热带往事》导演与作曲：也许会付出代价，处女座应该是大胆的探索</itunes:title>
+      <description>
+        <![CDATA[<p>聊过了电影节，聊过了电影大师，今天我们开启本播客的第三个主题——和电影主创聊电影。</p><p>作为系列第一期，我们请到了《热带往事》的导演温仕培与作曲李衡老师做客，来和他们一起聊聊他们的作品，聊聊戛纳，并挖掘他们作为影迷的一部分。</p><p></p><p>- 主播与嘉宾 -</p><p>汪金卫：重度影痴</p><p>温仕培：导演，爱吃辣的广州人，处女作《热带往事》入围戛纳特别展映单元</p><p>李衡：《热带往事》作曲&amp;配乐，其他配乐作品有《汉南夏日》和《我和我的家乡》之《北京好人》，以及《少年的你》音乐声音设计</p><p></p><p>- 时间轴 -</p><p>12:11 “我不想把它变成一个非常像韩国犯罪的那种类型电影”</p><p>13:07 九十年代往事</p><p>15:14 布景：一种表现主义的过去</p><p>15:54 音乐：躁动的情绪</p><p>18:46 风格突出的摄影与色彩</p><p>19:31 塑造一个超现实的视角</p><p>20:44 全知视角：对观众的邀请</p><p>24:57 音乐的留白</p><p>26:32 字幕的结束才是电影的结束</p><p>29:38 声音设计该喧宾夺主吗？</p><p>30:56 让一个角色拥有他的声音特质</p><p>34:12 训练耳朵适应“不安”与“不舒服”的配乐</p><p>37:22 一套南方的话语：杨德昌的影响</p><p>40:57 戏外牯岭街：一个隐秘的地理线索</p><p>41:56 《一一》首次公映轶事</p><p>43:04 电影为大银幕而生</p><p>45:55 张艾嘉对电影新人的支持</p><p>49:02 入围戛纳的开心与遗憾</p><p>51:40 经验：探索自己，而不是复制成功</p><p>53:48 创作电影配乐需要去拍摄现场吗</p><p></p><p>- 提到的电影 -</p><p>《血色将至》</p><p>《南方车站的聚会》</p><p>《不可撤销》</p><p>《皮囊之下》</p><p>《牯岭街少年杀人事件》</p><p>《戏梦巴黎》</p><p>《安妮特》</p><p></p><p>- Music -</p><p>片头：Open Spaces（There Will Be Blood) - Jonny Greenwood&nbsp;</p><p>插曲：</p><p>Henry Plainview - Jonny Greenwood</p><p>热带往事 - 电影片段</p><p>Are You Lonesome Tonight</p><p>片尾：北京好人 - 李衡</p><p></p><p>- Credits -</p><p>文稿 Aya 陆小鸟</p><p>编辑制作 杨啸天</p><p>制作总监 王若弛</p><p>节目运营 小米粒</p><p></p><p>- 收听方式 -</p><p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意泛用型播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p><p></p><p>- 关注微信公众号「JustPod」-</p><p>回复“影迷”：可以加听众群</p><p></p><p>- 联系方式 -</p><p>微信公众号：JustPod / 播客一下</p><p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;&nbsp;</p><p>合作邮箱：contact@justpod.fm</p>]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/JustPod映画/8</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 27 Jul 2021 10:26:02 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep8-20210727.mp3</guid>
+      <enclosure type="audio/mpeg" length="82431236" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep8-20210727.mp3" />
+      <itunes:duration>3428</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>09. 一个电影节的诞生：对谈北影节策展人沙丹</title>
+      <itunes:title>09. 一个电影节的诞生：对谈北影节策展人沙丹</itunes:title>
+      <description>
+        <![CDATA[<p><span style="color: rgb(73,73,73);font-size: 11pt;">关注微信公众号「JustPod」，回复“北影节”，加入北影节转票群</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">2021年北京国际电影节即将开幕，今年时长跨度8月11日-8月30日，史上最长。</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">相信各位听众都很好奇：一部电影是如何经过“重重难关”来到北影节与观众见面的？本届北影节有哪些亮点？到底能不能有戛纳新片？第一次参加北影节的影迷有什么攻略可以参考？</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">本期节目邀请北京电影节策展人、中国电影资料馆资深节目策划沙丹老师，与资深影迷、同样是电影节常客，且多才多艺的影迷K女士，共同聊北京国际电影节。</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">沙丹葛格自带1.5倍速，本期节目信息量极大，千万不要倍速播放哦~</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">节目分上下两期，本期以电影“策展”为主，将与两位嘉宾重点聊本届北影节片单，以及北影节抢票、赶场、美食攻略。两期同一天上线，欢迎收听！</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">-主播与嘉宾-</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">汪金卫：重度影痴</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">沙丹：北京国际电影节策展人，中国电影资料馆资深节目策划，人称葛格（哥哥谐音），微博@奇爱博士 ，微信「幕味儿」</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">K：常跑影展，混迹小西天的影迷，葛格表情包制作者</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">-时间轴-</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">01:24 两位嘉宾介绍</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">02:47 两位嘉宾的“迷影时刻”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">08:24 电影节是如何选片的？沙丹葛格详解“策展”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">12:08 越是耳熟能详的好莱坞大片，电影节越难放映</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">13:26 葛格怒赞平遥国际影展</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">19:26 电影节的意义是“为电影找到对的观众”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">24:20 筹办电影节有多少道工序？多大支出？</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">26:23 谈好版权与价格只是第一步</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">27:30 电影拷贝有哪些形式？什么是DCP、秘钥？</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">33:48 电影节字幕翻译和“时间轴”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">38:09 资料馆9月排片已排完，策展工作繁忙，如有瑕疵“求饶过”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">39:05 上影节“戛纳直通车”只是一个修辞</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">40:16 戛纳热门新片：有中国买家买版权，北影节难放；中国没人愿意买，北影节也难放</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">47:14 “看上海电影节是一种享受”</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">51:20 电影节当然可以放映“粉丝向电影” </span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">53:07 每个城市都有自己的特色</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">56:33 北影节将纪念刚刚去世的资深演员徐才根</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">-提到的电影-</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《红高粱》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《地道战》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《驾驶我的车》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《惊魂记》《后窗》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《辛德勒的名单》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《阮玲玉》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《教父》三部曲</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《风雨之夜》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《浮云》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《空山灵雨》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《野马分鬃》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《我们俩》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《夏日暖洋洋》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《阿婴》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《村戏》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《人·鬼·情》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《不成问题的问题》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《小城之春》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《董夫人》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《似水流年》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《团圆》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《舞台姐妹》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">《柳浪闻莺》</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">- Music -</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">片头：The Godfather (Love Theme) - Nino Rota</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">片尾：酒神曲 -《红高粱》</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">- Credits -</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">编辑制作 杨啸天</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">节目运营 小米粒</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">文稿 汪金卫 陆小鸟</span></p>
+<p>&nbsp;</p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">- 收听方式 -</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">推荐您使用「</span><a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">苹果播客</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">」、</span><a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">Spotify</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">、</span><a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">小宇宙App</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">、</span><a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">汽水儿</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">或</span><a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">任意泛用型播客客户端</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">订阅收听，也可通过</span><a href="https://music.163.com/#/radio?id=962632425" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">网易云音乐</span></a><span style="color: rgb(73,73,73);font-size: 11pt;"> 、</span><a href="https://www.ximalaya.com/yingshi/49979857/" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">喜马拉雅</span></a><span style="color: rgb(73,73,73);font-size: 11pt;">收听。</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;- 本节目由JustPod出品 -</p>
+<p></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">- 联系方式 -</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">微信公众号：播客一下</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">微博：</span><a href="https://weibo.com/u/7387305292?is_all=1" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">@JustPod</span></a><span style="color: rgb(73,73,73);font-size: 11pt;"> </span><a href="https://weibo.com/justpod" target="_self"><span style="color: rgb(73,73,73);font-size: 11pt;">@播客一下 </span></a><span style="color: rgb(73,73,73);font-size: 11pt;"> </span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">合作邮箱：contact@justpod.fm</span>&nbsp;</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/09. 一个电影节的诞生：对谈北影节策展人沙丹/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 03 Aug 2021 00:47:31 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep9-20210803.mp3</guid>
+      <enclosure type="audio/mpeg" length="58562269" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep9-20210803.mp3" />
+      <itunes:duration>3651</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>10. 沙丹：北影节片单何时了，戛纳知多少</title>
+      <itunes:title>10. 沙丹：北影节片单何时了，戛纳知多少</itunes:title>
+      <description>
+        <![CDATA[<p>欢迎在评论区写下自己的北影节心愿单，我们也会在评论区分享自己的观影片单</p>
+<p>上期节目聊“策展”，本期正式进入北影节环节。为什么说今年北影节片单非常“炸裂”？到底有没有戛纳新片？有没有排片、抢票、赶场经验分享？</p>
+<p>录完节目的汪金卫只能感慨葛格太能“喷”了，语速极快，信息量极大。几乎让后期小伙伴“无处可剪”。讲着讲着就不知不觉把人绕晕，多亏我技高一筹，终于从葛格嘴里套出了部分今年北影节的信息！</p>
+<p></p>
+<p>- 主播与嘉宾 -</p>
+<p>汪金卫：重度影痴</p>
+<p>沙丹：北京国际电影节策展人，中国电影资料馆资深节目策划，人称葛格（哥哥谐音），微博@奇爱博士 ，微信「幕味儿」</p>
+<p>K：常跑各地影展，混迹小西天的影迷，葛格表情包制作者</p>
+<p></p>
+<p>- 时间轴 -</p>
+<p>01:26 北影节也有粉丝向电影</p>
+<p>02:05 追忆北影节放映诺兰《黑暗骑士》那一年</p>
+<p>03:02 《辛德勒的名单》的中国首映是在北影节</p>
+<p>04:41 排队盛况空前的斯坦利·库布里克回顾展</p>
+<p>05:56 沙丹：老片总会重放，“尝鲜”莫怕踩雷</p>
+<p>08:14 北影节片单“剧透”</p>
+<p>09:51 本届北影节大师：基耶斯洛夫斯基</p>
+<p>10:42 本届北影节大师：瑟琳·席安玛</p>
+<p>11:37 本届北影节大师：陈翠梅</p>
+<p>12:52 影人回顾单元，“求全“不如“以时间换空间”</p>
+<p>15:56 汪：戛纳？ 葛格：我钛难了</p>
+<p>17:47 选片已在7月下旬结束</p>
+<p>18:55 追忆2019年上海电影节“戛纳直通车”</p>
+<p>21:34 今年北影节有了市外影院</p>
+<p>23:12 电影节并非分账放映，为买断制度。排片要考量影院，如地质礼堂、北京剧院</p>
+<p>25:01 八月举办北影节会常态化吗</p>
+<p>28:24 为何长达20天？</p>
+<p>30:54 今年北影节票价，最便宜的30块</p>
+<p>32:50 葛格：今年肯定一大波上海人来北京</p>
+<p>34:34 葛格：上影节看了38部，展览也没少看</p>
+<p>35:58 K女士的抢票、赶场及美食攻略</p>
+<p>37:03 K女士：以“权重”思维来排片，选座也要配合赶场的节奏</p>
+<p>40:07 北影节吃饭：新华百货</p>
+<p>42:05 是否应该提前取票</p>
+<p>43:01 效果很好的影厅不是资料馆</p>
+<p>43:35 售票：猫眼</p>
+<p>46:25 汪金卫：猫眼的这个功能可能是全网最好的</p>
+<p>47:20 北影节周边</p>
+<p>48:11 “片尾也是电影的一部分”</p>
+<p>50:32 葛格：在影院里，我和银幕、观众形成暧昧的“三角关系”</p>
+<p></p>
+<p>- 提到的电影 -</p>
+<p>《红猪》</p>
+<p>诺兰《蝙蝠侠》三部曲</p>
+<p>《疯狂的麦克斯4》</p>
+<p>《2001：太空漫游》</p>
+<p>《阿甘正传》</p>
+<p>《辛德勒的名单》</p>
+<p>《信誓》</p>
+<p>《最后一场胶片电影放映》</p>
+<p>《两生花》</p>
+<p>《十诫》</p>
+<p>《燃烧女子的肖像》</p>
+<p>《小妈妈》</p>
+<p>《奥林匹亚街区》</p>
+<p>《野蛮人入侵》</p>
+<p>《小偷家族》</p>
+<p>《何以为家》</p>
+<p>《悲惨世界》</p>
+<p>《我曾侍候过英国国王》</p>
+<p>《波斯语课》</p>
+<p></p>
+<p>- Music -</p>
+<p>片头：Tu viendras（From“La double vie de Véronique”）- Zbigniew Preisner</p>
+<p>片尾：So May We Start (From ＂Annette＂)  - Sparks, Adam Driver, Marion Cotillard</p>
+<p></p>
+<p>- Credits -</p>
+<p>编辑制作 杨啸天</p>
+<p>节目运营 小米粒</p>
+<p>文稿 汪金卫 陆小鸟</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意泛用型播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p>
+<p></p>
+<p>- 关注微信公众号「JustPod」-</p>
+<p>回复“影迷”：可以加听众群</p>
+<p>回复“北影节”：加入北影节转票群</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>微信公众号：JustPod / 播客一下</p>
+<p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;&nbsp;</p>
+<p>合作邮箱：contact@justpod.fm</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/10. 沙丹：北影节片单何时了，戛纳知多少/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 03 Aug 2021 08:54:14 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep10-20210803.mp3</guid>
+      <enclosure type="audio/mpeg" length="54456718" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep10-20210803.mp3" />
+      <itunes:duration>3394</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season>1</itunes:season>
+      <title>11. 与阿巴斯的生命共振（嘉宾：btr）</title>
+      <itunes:title>11. 与阿巴斯的生命共振（嘉宾：btr）</itunes:title>
+      <description>
+        <![CDATA[<p>本期节目献给在最恰当的时间把btr送到我们面前的婉莹。</p>
+<p></p>
+<p>“电影始于格里菲斯，终于阿巴斯·基亚罗斯塔米”——戈达尔。</p>
+<p>8月22日至9月5日，上海艺术电影联盟主办、妖灵妖老师策划的“<a href="https://mp.weixin.qq.com/s/jUVFiCbpDUhnPEFtvnQzlw" target="_self">电影大师阿巴斯·基亚罗斯塔米回顾展</a>”将在大光明电影院、美琪大戏院展映。</p>
+<p>本期节目我们有幸请到了跨界写作、翻译、艺术界、电影界的著名斜杠青年，《樱桃的滋味 : 阿巴斯谈电影》的译者btr老师，和大家聊聊这位大师和他的电影。</p>
+<p>希望你把本期节目分享给同看影展、同喜欢阿巴斯的朋友，谢谢。</p>
+<p></p>
+<p>- 主播与嘉宾 -</p>
+<p>陆小鸟，新晋btr粉丝</p>
+<p>汪金卫，重度影痴，刚刚读完《樱桃的滋味 : 阿巴斯谈电影》</p>
+<p>btr，策展人，小说家，《博物志》婉莹的好友&amp;知名嘉宾，秃顶会上海分会会长。从第二届开始看上影节，连续10余年跑香港、釜山电影节，2019年first青年影展的初选评委。</p>
+<p></p>
+<p>- 时间轴 -</p>
+<p>0:42 多维度的btr和他的影迷之路——上影节、香港电影节、威尼斯电影节、釜山电影节：“电影就是电影节”</p>
+<p>9:16 “阿巴斯的简单具有欺骗性，你可以从不同的层面去喜欢他”</p>
+<p>11:45 《樱桃的滋味 : 阿巴斯谈电影》与btr的神奇相遇</p>
+<p>12:23 “利用重复创造了一种句法”</p>
+<p></p>
+<p>【17:22 阿巴斯其人】</p>
+<p>18:40 关于名字——“世界上有三个首字母AK开头的电影大师”“基亚罗斯塔米这个姓相当于成吉思汗”</p>
+<p>19:39 阿巴斯的去世</p>
+<p>21:42 “电影不会在我这里终结，但我会让电影稍稍改变一点方向”</p>
+<p>23:41 “天才不需要看许多电影”（阿巴斯一生没看超过50部电影）</p>
+<p>23:55 广告公司与儿童</p>
+<p>25:43 不能拍女性，只能拍儿童和乡村</p>
+<p>30:37 打破电影的边界</p>
+<p>36:57 阿巴斯的诗“可能更接近于他的摄影作品”</p>
+<p></p>
+<p>【39:17本次影展片单讨论】包括：</p>
+<p>《阿巴斯短篇集》11部：</p>
+<p>面包与小巷、课间休息、我也能、一个问题的两种解决办法、颜色、教师赞歌、如何利用闲暇时间：给门板刷油漆、第一解决方案、牙疼、有序或无序、合唱团</p>
+<p>中篇：</p>
+<p>《体验》+《结婚礼服》，《案例一，案例二》+《公民同胞》</p>
+<p>长篇：</p>
+<p>《旅客》（btr推荐）、《小学新生》</p>
+<p>“柯盖尔三部曲”：《何处是我朋友的家》《生生长流》《橄榄树下的情人》</p>
+<p>《樱桃的滋味》（戛纳金棕桐）</p>
+<p>《随风而逝》（威尼斯评审团大奖）</p>
+<p></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">【01:10:15 喜欢的阿巴斯作品排序】</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">btr：《伍》《24帧》《希林公主》</span></p>
+<p><span style="color: rgb(73,73,73);font-size: 11pt;">汪金卫：作为一个整体的“柯盖尔三部曲”</span>&nbsp;</p>
+<p></p>
+<p>01:16:15 关于内嵌中文字幕</p>
+<p></p>
+<p>- 提到的其它电影 -</p>
+<p>【未展映的阿巴斯作品】</p>
+<p>《特写》btr最爱</p>
+<p>入门阿巴斯推荐：《合法副本》（原样复制）《如沐爱河》</p>
+<p>《十段生命的共振》</p>
+<p>没来及拍的《杭州之恋》</p>
+<p>【非阿巴斯的电影】</p>
+<p>《暴雨将至》btr名字的由来（before the rain）</p>
+<p>《与阿巴斯·基亚罗斯塔米的76分15秒》</p>
+<p>《这不是一部电影》</p>
+<p>《正午显影》</p>
+<p></p>
+<p>- Music -</p>
+<p>开场：</p>
+<p>《卢米埃尔与四十大导》电影片段</p>
+<p>《特写》电影片段</p>
+<p>结尾：</p>
+<p>Love Never Dies（From“24 Frames”）- Andrew Lloyd Webber</p>
+<p></p>
+<p>- Credits -</p>
+<p>编辑制作 杨啸天</p>
+<p>制作总监 王若弛</p>
+<p>节目运营 小米粒</p>
+<p>文稿  陆小鸟</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意泛用型播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p>
+<p></p>
+<p>- 关注微信公众号「JustPod」，回复“影迷”，加入听众群</p>
+<p>- “影展交流”微信小程序：上海、北京出票/求票必备</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>微信公众号：JustPod / 播客一下</p>
+<p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;&nbsp;</p>
+<p>合作邮箱：contact@justpod.fm</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/justpod-pictures.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/11. 与阿巴斯的生命共振（嘉宾：btr）/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 10 Aug 2021 09:55:01 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep11-20210810.mp3</guid>
+      <enclosure type="audio/mpeg" length="82825093" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-ep11-20210810.mp3" />
+      <itunes:duration>5159</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <itunes:season></itunes:season>
+      <title>【番外】与电影的一次奇遇</title>
+      <itunes:title>【番外】与电影的一次奇遇</itunes:title>
+      <description>
+        <![CDATA[<p>这是一期番外，汪金卫讲述了自己与电影有关的一次奇遇。</p>
+<p>欢迎评论区互动，或分享你的故事。</p>
+<p>对应的豆瓣日记（可以看到照片）：《<a href="https://www.douban.com/note/643215647/" target="_self">台北電話交友奇遇</a>》</p>
+<p></p>
+<p>提及电影：</p>
+<p>蔡明亮执导，李康生主演的《青少年哪吒》《家在兰若寺》</p>
+<p>德里克·贾曼的《蓝》</p>
+<p></p>
+<p>提及地点：西门町 电话交友店 淡水码头 西本愿寺（台北）</p>
+<p></p>
+<p>- Music -</p>
+<p>本期节目所有音乐都来自《青少年哪吒》</p>
+<p></p>
+<p>- Credits -</p>
+<p>编辑制作 杨啸天</p>
+<p>制作总监 王若弛</p>
+<p>节目运营 小米粒</p>
+<p>文稿  陆小鸟</p>
+<p></p>
+<p>- 收听方式 -</p>
+<p>推荐您使用「<a href="https://podcasts.apple.com/cn/podcast/id1504035831" target="_self">苹果播客</a>」、<a href="https://open.spotify.com/show/64sjFOMhIdn4zOIrb7bSNc" target="_self">Spotify</a>、<a href="https://www.xiaoyuzhoufm.com/podcast/60b5165fb6b757afff66011d" target="_self">小宇宙App</a>、<a href="https://h5.qishuier.com/podcasts/175882767257583617" target="_self">汽水儿</a>或<a href="https://justpodmedia.com/rss/justpod-pictures.xml" target="_self">任意泛用型播客客户端</a>订阅收听，也可通过<a href="https://music.163.com/#/radio?id=962632425" target="_self">网易云音乐</a>、<a href="https://www.ximalaya.com/yingshi/49979857/" target="_self">喜马拉雅</a>收听。&nbsp;</p>
+<p></p>
+<p>- 关注微信公众号「JustPod」-</p>
+<p>回复“影迷”：可以加听众群</p>
+<p></p>
+<p>- 联系方式 -</p>
+<p>微信公众号：JustPod / 播客一下</p>
+<p>微博：<a href="https://weibo.com/u/7387305292?is_all=1" target="_self">@JustPod</a> <a href="https://weibo.com/justpod" target="_self">@播客一下</a>&nbsp;&nbsp;</p>
+<p>合作邮箱：contact@justpod.fm</p>
+]]>
+      </description>
+      <itunes:image href="https://justpodmedia.com/pic/pictures-bonus-cover.jpg" />
+      <link>https://justpodmedia.com/justpod/episode/【番外】与电影的一次奇遇/</link>
+      <author>JustPod</author>
+      <pubDate>Tue, 17 Aug 2021 12:36:32 GMT</pubDate>
+      <guid isPermaLink="true">https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-bonus-20210817.mp3</guid>
+      <enclosure type="audio/mpeg" length="12897799" url="https://dts.podtrac.com/redirect.mp3/justpodmedia.com/audio/justpod-pictures/Pictures-bonus-20210817.mp3" />
+      <itunes:duration>782</itunes:duration>
+      <itunes:episode></itunes:episode>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
